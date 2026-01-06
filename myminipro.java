@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
-public class myminipro {
+public class
+myminipro {
     
 
 class MathUtils {
@@ -115,7 +116,7 @@ class ArrayUtils {
     }
 }
 
-public class UtilityLibrary {
+public class minipro {
 
     public static void main(String[] args) {
 
